@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Ruby"
+date:   2016-02-01 15:08:10 -0500
+img: img/portfolio/ruby.png
+modalID: ruby
+category: Design
+---
+Everybody loves Ruby. I'm no exception. I was introduced to Ruby - like many - via the excellent Ruby on Rails framework. I have since been exploring the wonders of scripting in Ruby and building automation and pipeline projects using technologies like Jenkins. Start a conversation about Ruby with me today!

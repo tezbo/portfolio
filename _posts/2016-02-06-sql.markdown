@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SQL"
+date:   2016-02-06 15:08:10 -0500
+img: img/portfolio/sql.png
+modalID: sql
+category: Design
+---
+SQL was one of those languages I just had to learn from the get-go. It's easy to pickup and the more advanced featuress are extremely useful. I've since gone on to explore and create entity-relationship diagrams, batted with decomposition and normalization, and found pride in reducing complex tables of data down to BCNF. Being extremely conversant in SQL has helped me to quickly test and debug databases. I'm a big fan, and think every web developer should have a firm grasp of at least one query language. 

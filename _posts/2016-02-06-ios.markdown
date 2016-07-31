@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "iOS Development"
+date:   2016-02-06 15:08:10 -0500
+img: img/portfolio/swift.png
+modalID: ios
+category: Design
+---
+I confess. I am an Apple fan. When Apple introduced Swift I was excited. It's not just an exciting new language to learn, but SWift is a way to bring iOS developers together to create amazing apps. I'm still very much a beginner in this area, but I'm slowly moving on from the good old Hello World through to building some pretty cool event and resource management tools. Keep an eye on this space!

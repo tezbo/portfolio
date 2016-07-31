@@ -1,0 +1,55 @@
+<!-- Portfolio Grid Section -->
+
+    <section id="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Tech I love</h2>
+                    <br /><br />
+                </div>
+            </div>
+            <div class="row">
+                {% for post in site.posts %}
+                    <div class="col-xs-4 portfolio-item">
+                        <a href="#{{ post.modalID }}" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="{{ site.baseurl.img.portfolio }}/{{ post.img }}" class="img-responsive" alt="">
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+
+<style>
+div .portfolio-item {
+    max-height: 140px;
+    max-width: 140px;
+    display: block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    background-color: #fff;
+    border: 5px solid #fff;
+}
+
+
+#profile {
+    max-height: 300px;
+    max-width: 300px;
+    vertical-align: middle;
+    border-radius: 200px;
+    box-sizing: border-box;
+    background-color: #fff;
+    border: 5px solid #fff;
+}
+
+ a .portfolio-link{
+    display:block;
+}
+
+</style>
+

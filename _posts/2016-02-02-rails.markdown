@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Ruby on Rails"
+date:   2016-02-02 15:08:10 -0500
+img: img/portfolio/rails.png
+modalID: rails
+category: Design
+---
+Ruby on Rails is my secret weapon for deploying fast websites against really tight timeframes. With literally thousands of gems (community-coded modules that do everything from user authentication to building beautiful forms), Rails keeps getting better and better. It's relatively easy to get up and running with the basics (with thanks especially to some brilliant tutorials out there), and I built my first Masters-level project in Rails (a platform not very unlike AirBNB). Once you get your head around MVC and the object-oriented world of Ruby, you'll find Rails a joy to use.

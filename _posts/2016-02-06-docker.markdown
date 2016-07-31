@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Docker"
+date:   2016-02-06 15:08:10 -0500
+img: img/portfolio/docker.png
+modalID: docker
+category: Design
+---
+I've recently joined the legions of Docker fans that can't stop talking about how darn fast deployment is with containerization. Don't get me wrong - I love spinning up an EC2 instance on AWS as much as the next dev; but for truly lightweight, lightning fast deployment you simply cannot go past Docker. Plus, it's now native to Mac!

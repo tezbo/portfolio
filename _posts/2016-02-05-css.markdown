@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CSS 3"
+date:   2016-02-05 15:08:10 -0500
+img: img/portfolio/css.png
+modalID: css
+category: Design
+---
+I love CSS. It's the backbone of all incredible looking websites. It's relatively simple (along with HTML5) but it's powerful. Granted, a bit of jQuery thrown in will provide some incredible functionality, but at the bare bones level CSS has treated me well over the years. 

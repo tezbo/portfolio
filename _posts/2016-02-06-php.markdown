@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PHP"
+date:   2016-02-06 15:08:10 -0500
+img: img/portfolio/php.png
+modalID: php
+category: Design
+---
+My web dev education has its roots in PHP and MySQL. I haven't really touched it much recently, other than to use PHP for basic user authentication and password security hashing functions. I've had a bit of exposure to Laravel, Symofony and CodeIgnitor. Other than making sure a new Apache server can run PHP and MySQL together in harmony is about the extent of my recent work with the technology. I've definitely been driven further by Ruby and the Rails framework in recent years.
